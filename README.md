@@ -98,10 +98,10 @@ face-recognition-system/
 
 ### Real-Time Face Recognition
 
-3. **Run the `main.py` script** to start real-time face recognition:
+3. **Run the `j.py` script** to start real-time recognition:
 
    ```bash
-   python main.py
+   python j.py
    ```
 
    - The script loads the trained model (`model.pkl`), captures webcam frames, and performs face recognition.
@@ -118,10 +118,4 @@ face-recognition-system/
 
 ---
 
-## License
 
-This project is licensed under the MIT License.
-
----
-
-You can customize this further to suit your project's needs, but this README provides a clear starting point. Let me know if you need additional changes!
